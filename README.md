@@ -1,7 +1,7 @@
 # System-design
 The most basic knowlegde how the app work behind the scene
 
-# 📚 Kiến trúc Hệ thống (System Design) cho Developer thời đại AI
+# 📚 Kiến trúc Hệ thống (System Design) cho Developer 
 
 ## 🧠 Vì sao nên học System Design?
 
@@ -111,7 +111,7 @@ Ví dụ:
 
 ##############################################################
 
-# 📚 System Design Fundamentals (For Developers in the AI Era)
+# 📚 System Design Fundamentals (For Developers)
 
 ## 🧠 Why System Design?
 
